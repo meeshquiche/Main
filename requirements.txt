@@ -1,0 +1,4 @@
+shiny
+pandas
+requests
+python-dotenv
